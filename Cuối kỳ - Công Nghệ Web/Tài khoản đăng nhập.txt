@@ -1,0 +1,12 @@
+-Tài khoản Admin:
+	Username: admin
+	Passwork: Admin123!
+-Tài khoản trưởng:
+	Username: nhattan01
+	Passwork: Nhattan01!
+-Tài khoản nhân viên:
+	Username 1: thehoang01
+	Passwork 1: Thehoang01!
+	-----------------------
+	Username 2: yennhi01
+	Passwork 2: YenNhi01!
